@@ -2,7 +2,7 @@
   "name": "Rémunération Débutant",
   "short_name": "Rémunération",
   "description": "Calcul rémunération débutant - PLEN/PRIMEO/IAG",
-  "start_url": "/Calcul-remuneration-debutant/remuneration-debutant.html",
+  "start_url": "/Calcul-remuneration-debutant/index.html",
   "scope": "/Calcul-remuneration-debutant/",
   "display": "standalone",
   "orientation": "portrait",
